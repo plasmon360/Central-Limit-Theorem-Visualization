@@ -1,4 +1,5 @@
 # Central Limit Theorem Visualization
 
 
-![](Screenshot.png)
+![](Screenshot_N_1.png)
+![](Screenshot_N_100.png)
